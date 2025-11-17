@@ -46,7 +46,7 @@ This app provides a **personalized study assistant** to:
 
 ---
 
-## Hackathon Integration (Haulout Hackathon 2025)
+## Hackathon (Haulout Hackathon 2025)
 
 This project aligns with the Haulout Hackathon theme:
 
@@ -57,17 +57,14 @@ This project aligns with the Haulout Hackathon theme:
    Each session can be cryptographically verified using **Seal**, confirming authenticity.  
 
 3. **Marketplace / Monetisation (Nautilus):**  
-   Aggregated insights or anonymized study analytics can be shared or monetized via **Nautilus**, creating opportunities for verified educational data.  
-
-> **Note:** The core AI Study Tracker code is unchanged; this section shows alignment with hackathon themes.
-
----
+   Aggregated insights or anonymized study analytics can be shared or monetized via **Nautilus**, creating opportunities for verified educational data.
+   
 
 ## Quickstart
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-study-tracker.git
+git clone https://github.com/yourusername/ScholarSync.git
 cd ai-study-tracker
 
 # Create virtual environment
