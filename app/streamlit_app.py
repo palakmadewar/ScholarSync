@@ -13,7 +13,7 @@ MODEL_PATH = Path(__file__).resolve().parents[1]/'models'/'pipeline.joblib'
 
 # Page config
 st.set_page_config(page_title='AI Study Tracker', page_icon='📚', layout='wide')
-st.title('📚 AI-Powered Personal Study Tracker')
+st.title('📚 ScholarSync Personal Study Tracker')
 
 # Custom CSS
 st.markdown("""
