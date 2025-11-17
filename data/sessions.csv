@@ -1,0 +1,57 @@
+date,start_time,end_time,subject,technique,distractions,mood,caffeine_mg,productivity
+2025-10-20,16:45,17:10,CS,Active Recall,1,3,144,4
+2025-10-20,08:00,08:30,Biology,Pomodoro,3,3,143,2
+2025-10-21,16:30,17:00,History,Pomodoro,2,4,76,3
+2025-10-21,06:00,06:30,Physics,Pomodoro,1,2,41,2
+2025-10-22,08:45,09:10,Math,Pomodoro,1,4,19,4
+2025-10-22,10:00,10:45,CS,Practice Problems,1,5,140,4
+2025-10-23,19:30,20:30,History,Note-taking,0,3,146,3
+2025-10-23,21:00,21:25,CS,Note-taking,1,3,86,2
+2025-10-24,06:15,07:45,Math,Spaced Repetition,2,1,166,3
+2025-10-24,08:45,10:15,Physics,Pomodoro,2,4,123,3
+2025-10-25,16:00,17:00,Biology,Spaced Repetition,2,4,99,4
+2025-10-25,14:15,15:30,CS,Note-taking,1,3,75,3
+2025-10-26,16:45,17:15,Biology,Practice Problems,2,5,13,3
+2025-10-26,16:45,18:15,Physics,Practice Problems,2,4,112,2
+2025-10-27,14:00,15:15,Math,Pomodoro,3,4,63,2
+2025-10-27,20:15,21:15,Biology,Active Recall,1,3,79,4
+2025-10-28,10:30,11:30,Physics,Note-taking,2,2,137,3
+2025-10-28,21:15,22:00,Biology,Spaced Repetition,1,5,145,5
+2025-10-29,06:00,07:00,Math,Note-taking,5,3,186,2
+2025-10-29,08:30,09:45,Biology,Pomodoro,2,5,49,4
+2025-10-30,20:45,21:30,Math,Note-taking,4,4,152,3
+2025-10-30,14:45,15:45,Biology,Practice Problems,2,3,99,2
+2025-10-31,14:30,15:30,Physics,Pomodoro,1,3,126,3
+2025-10-31,06:00,06:45,History,Pomodoro,1,2,224,3
+2025-11-01,09:30,09:55,Physics,Spaced Repetition,4,3,103,4
+2025-11-01,19:45,20:45,Biology,Practice Problems,1,4,116,4
+2025-11-02,20:30,21:00,CS,Note-taking,2,3,68,3
+2025-11-02,20:45,22:45,Physics,Active Recall,0,2,118,3
+2025-11-03,10:30,11:30,Biology,Note-taking,2,2,188,3
+2025-11-03,19:45,21:45,Biology,Note-taking,0,3,168,3
+2025-11-04,09:00,11:00,CS,Pomodoro,0,4,150,5
+2025-11-04,16:15,17:00,Physics,Spaced Repetition,1,3,206,4
+2025-11-05,07:30,09:30,Biology,Practice Problems,2,2,82,3
+2025-11-05,21:15,22:45,Physics,Spaced Repetition,4,3,96,3
+2025-11-06,09:45,10:15,Physics,Pomodoro,0,4,91,5
+2025-11-06,21:00,22:15,History,Active Recall,0,4,191,5
+2025-11-07,06:15,06:45,Physics,Active Recall,0,4,110,5
+2025-11-07,19:00,20:30,CS,Spaced Repetition,2,3,84,3
+2025-11-08,16:15,17:15,CS,Active Recall,3,3,167,3
+2025-11-08,14:00,15:15,History,Spaced Repetition,2,4,183,4
+2025-11-09,14:45,16:45,CS,Practice Problems,1,4,77,4
+2025-11-09,16:45,17:30,CS,Note-taking,2,3,132,3
+2025-11-10,08:00,09:00,Biology,Note-taking,1,4,33,3
+2025-11-10,20:45,22:15,Math,Pomodoro,2,4,166,3
+2025-11-11,16:00,18:00,CS,Practice Problems,3,5,159,4
+2025-11-11,19:45,21:15,Physics,Note-taking,1,4,74,3
+2025-11-12,14:30,15:45,History,Active Recall,2,4,84,4
+2025-11-12,06:00,06:30,History,Active Recall,1,3,182,4
+2025-11-13,06:00,06:25,Physics,Note-taking,2,4,166,4
+2025-11-13,08:15,10:15,Biology,Note-taking,2,4,110,3
+2025-11-14,21:15,22:00,History,Active Recall,3,4,172,3
+2025-11-14,10:45,12:15,CS,Pomodoro,1,3,144,4
+2025-11-15,14:45,16:45,History,Spaced Repetition,1,2,71,3
+2025-11-15,14:00,14:30,Physics,Active Recall,2,3,83,3
+2025-11-16,07:00,09:00,Physics,Practice Problems,2,5,212,3
+2025-11-16,21:30,22:30,Math,Practice Problems,2,3,86,3

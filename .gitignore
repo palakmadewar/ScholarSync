@@ -4,3 +4,4 @@ Add-Content .gitignore "__pycache__/"
 Add-Content .gitignore "*.pyc"
 Add-Content .gitignore "data/"
 Add-Content .gitignore "models/"
+.venv/
