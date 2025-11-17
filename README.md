@@ -1,6 +1,6 @@
-# AI-Powered Personal Study Tracker
+# ScholarSync personal agent
 
-**AI Personal Study Tracker** is an intelligent app that helps learners track, analyze, and improve their study habits using **AI and Machine Learning**.  
+**ScholarSync** is an intelligent app that helps learners track, analyze, and improve their study habits using **AI and Machine Learning**.  
 It predicts your expected productivity, shows trends, and gives insights to make your study sessions more effective.
 
 ---
@@ -91,3 +91,4 @@ python src/train_model.py --db data/study.db --out models/pipeline.joblib
 
 # Launch the dashboard
 streamlit run app/streamlit_app.py
+
